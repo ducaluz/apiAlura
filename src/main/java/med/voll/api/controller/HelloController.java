@@ -10,6 +10,6 @@ public class HelloController {
     
     @GetMapping("hello")
     public String olaMundo(){
-        return "Com a tabela médicos." ; 
+        return "Alô Brasil" ; 
     }
 }
